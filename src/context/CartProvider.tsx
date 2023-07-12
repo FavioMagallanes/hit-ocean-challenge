@@ -3,8 +3,8 @@ import { CartContext, CartItem } from "./cartContext";
 import {
   saveCartItemsToLocalStorage,
   saveGemsToLocalStorage,
-} from "@/utils/localStorageUtils";
-import { CartContextType } from "@/types/interfaces";
+} from "../utils/localStorageUtils";
+import { CartContextType } from "../types/interfaces";
 
 interface CartProviderProps {
   children: React.ReactNode;

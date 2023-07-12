@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useCartContext } from "@/context/cartContext";
+import { useCartContext } from "../context/cartContext";
 import { Zoom, toast } from "react-toastify";
 
 const useCartPurchase = () => {
