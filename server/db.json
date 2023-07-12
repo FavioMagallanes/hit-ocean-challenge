@@ -65,5 +65,20 @@
       "imagen": "http://localhost:5173/Icon8.png"
     }
   ],
-  "compras": []
+  "compras": [
+    {
+      "items": [
+        3
+      ],
+      "id": 1
+    },
+    {
+      "items": [
+        2,
+        1,
+        5
+      ],
+      "id": 2
+    }
+  ]
 }

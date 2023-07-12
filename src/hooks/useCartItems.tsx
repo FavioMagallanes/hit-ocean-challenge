@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
-import { useCartContext } from "@/context/cartContext";
-import { Cart, CartItem } from "@/types/interfaces";
+
 import { Zoom, toast } from "react-toastify";
+import { Cart, CartItem } from "../types/interfaces";
+import { useCartContext } from "../context/cartContext";
 
 const useCartItems = (): Cart => {
   const [products, setProducts] = useState<CartItem[]>([]);
