@@ -26,9 +26,9 @@ Frontend challenge, with React, Typescript and Tailwind
 
 `npm install`
 
-<p>4. Luego se debe levantar el backend con el comando `npm run server`. El mismo corre localmente en el puerto _3001_</p>
+`4. Luego se debe levantar el backend con el comando `npm run server`. El mismo corre localmente en el puerto 3001`
 
-<p>5. Luego podemos levantar el frontend con el comando `npm run dev`. Esto levanta un servidor de desarrollo en el puerto _5173_</p>
+`5. Luego podemos levantar el frontend con el comando `npm run dev`. Esto levanta un servidor de desarrollo en el puerto 5173`
 
 ## 🔥 Stack + Libs
 
