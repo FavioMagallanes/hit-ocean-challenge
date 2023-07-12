@@ -1,0 +1,69 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "HP 500",
+      "precio": 1,
+      "categoria": "Salud",
+      "descripcion": "Sube la vida del mago en 100 unidades",
+      "imagen": "http://localhost:5173/Icon1.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Veneno somnoliento",
+      "precio": 1,
+      "categoria": "Veneno",
+      "descripcion": "Duerme al enemigo 3 turnos",
+      "imagen": "http://localhost:5173/Icon2.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Escudo de fuego",
+      "precio": 2,
+      "categoria": "Proteccion",
+      "descripcion": "Resiste el daño de un ataque de agua",
+      "imagen": "http://localhost:5173/Icon3.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Vigor shawarma",
+      "precio": 3,
+      "categoria": "Estamina",
+      "descripcion": "Aumenta 25 la estamina pero se pierde el siguiente turno en el baño por una diarrea feroz",
+      "imagen": "http://localhost:5173/Icon4.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Piel de piedra",
+      "precio": 1,
+      "categoria": "Proteccion",
+      "descripcion": "Protege de los efectos de los venenos por los próximos 3 turnos",
+      "imagen": "http://localhost:5173/Icon5.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Poción de agilidad",
+      "precio": 2,
+      "categoria": "Elixir",
+      "descripcion": "Aumenta la velocidad de movimiento en un 50% por 1 minuto",
+      "imagen": "http://localhost:5173/Icon6.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Espada de fuego",
+      "precio": 1,
+      "categoria": "Arma",
+      "descripcion": "Causa daño adicional de fuego en cada golpe",
+      "imagen": "http://localhost:5173/Icon7.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Botas de invisibilidad",
+      "precio": 2,
+      "categoria": "Accesorio",
+      "descripcion": "Permite al portador volverse invisible por un corto período de tiempo",
+      "imagen": "http://localhost:5173/Icon8.png"
+    }
+  ],
+  "compras": []
+}
