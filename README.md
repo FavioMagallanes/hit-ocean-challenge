@@ -7,9 +7,7 @@ Frontend challenge, with React, Typescript and Tailwind
 - [Potion shop](#potionshop)
   - [Table of content](#table-of-content)
   - [🚀 Installation Steps](#-installation-steps)
-  - [🚩 Note](#-note)
   - [🔥 Stack + Libs](#-stack--libs)
-  - [🌐 API](#-weather-api)
   - [✉️ Contact me](#️-contact-me)
 
 <h2>🛠️ Installation Steps:</h2>
