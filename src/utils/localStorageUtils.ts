@@ -1,5 +1,5 @@
-import { ShowCart } from "@/App";
-import { CartItem } from "@/context/cartContext";
+import { ShowCart } from "../App";
+import { CartItem } from "../context/cartContext";
 
 export const saveCartItemsToLocalStorage = (items: CartItem[]) => {
   localStorage.setItem("cartItems", JSON.stringify(items));
