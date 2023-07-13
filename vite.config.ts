@@ -6,5 +6,5 @@ export default defineConfig({
       "@": "/src",
     },
   },
-  base: "https://FavioMagallanes.github.io/hit-ocean-challenge",
+  base: "https://FavioMagallanes.github.io/hit-ocean-challenge/",
 });
